@@ -1,2 +1,2 @@
 ﻿# rsschool-cv
- #Ekaterina Khmelevskay
+ #Ekaterina Khmelevskaya
