@@ -35,12 +35,14 @@ Personal Projects
 Project: E-commerce Website
 
 Technologies: JavaScript, React, Node.js, MongoDB, HTML, CSS
-Description: Created a fully functional e-commerce website, allowing users to browse products, add them to the cart, and complete the checkout process.
+Description: Created a fully functional e-commerce website, allowing users to browse products, 
+add them to the cart, and complete the checkout process.
 GitHub Repository: github.com/alexjohnson/ecommerce-website
 Project: Task Management App
-
 Technologies: Python, HTML, CSS, MySQL, C#
-Description: Developed a task management application that enables users to create, assign, and track tasks with priority and due date features.
+Description: Developed a task management application that enables users to create,
+assign, and track tasks with priority and due date features.
+
 7. Education
 Bachelor's Degree in Computer Science, Minsk College of Business
 Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming
@@ -49,5 +51,7 @@ Online Courses:
 "The Modern JavaScript Bootcamp" - Udemy
 English Proficiency
 Advanced level of English, both written and spoken.
-Language Practice: Regularly engage in English conversation groups, participate in coding forums, and consume technical content in English to enhance language skills and fluency.
-Please note that this is a fictional CV created for demonstration purposes. The information provided does not represent any real individual.
+Language Practice: Regularly engage in English conversation groups, participate in coding
+forums, and consume technical content in English to enhance language skills and fluency.
+Please note that this is a fictional CV created for demonstration purposes.
+The information provided does not represent any real individual.
